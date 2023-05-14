@@ -79,8 +79,9 @@ NOTE: If you only find ONE locked position under 11, try to find two locked posi
 <br><br>
 ### **How to use files**
 <br>
-1) **Change the values of**:
-```
+**Change the values of**:
+
+``` python
 first_locked_position = 4; // change
 
 second_locked_position = 7; // change
@@ -92,7 +93,7 @@ loose_third = 4; // change
 
 follow the instructions above if you are not sure what to change them to or if you need extra help, here is a video explanation by [@SamyKamkar's](https://www.youtube.com/watch?v=09UgmwtL12c&t=3s&ab_channel=samykamkar)
 
-2) **Run the code** and it will give you a first value, a list of possible second values, and two possible third values. Use the third value that is loosest. (loose_third)
+**Run the code** and it will give you a first value, a list of possible second values, and two possible third values. Use the third value that is loosest. (loose_third)
 
 
 
