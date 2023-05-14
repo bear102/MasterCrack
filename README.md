@@ -99,18 +99,15 @@ follow the instructions above if you are not sure what to change them to or if y
 
 
 
-
-
-
-
 <br><br>
 
 ## Files
 
-- `lockcrack.py`: Python script to crack Master Lock combinations.
-- `lockcrack.cpp`: C++ program to crack Master Lock combinations.
-- `lockcrack.js`: JavaScript code to crack Master Lock combinations.
-- `lockcrack.rb`: Ruby script to crack Master Lock combinations.
+- `MasterCrack.py`: Python script to crack Master Lock combinations.
+- `MasterCrack.cpp`: C++ program to crack Master Lock combinations.
+- `MasterCrack.js`: JavaScript code to crack Master Lock combinations.
+- `MasterCrack.rb`: Ruby script to crack Master Lock combinations.
+- `MasterCrack.java`: Java script to crack Master Lock combinations.
 
 
 
