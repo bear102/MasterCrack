@@ -78,7 +78,7 @@ NOTE: If you only find ONE locked position under 11, try to find two locked posi
 
 <br><br>
 ### **How to use files**
-<br><br>
+<br>
 1) **Change the values of**:
 ```
 first_locked_position = 4; // change
