@@ -89,6 +89,7 @@ resistant_location = 23; // change
 
 loose_third = 4; // change
 ```
+
 follow the instructions above if you are not sure what to change them to or if you need extra help, here is a video explanation by [@SamyKamkar's](https://www.youtube.com/watch?v=09UgmwtL12c&t=3s&ab_channel=samykamkar)
 
 2) **Run the code** and it will give you a first value, a list of possible second values, and two possible third values. Use the third value that is loosest. (loose_third)
